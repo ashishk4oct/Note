@@ -1,0 +1,15 @@
+1. Working and implementation of these collections - TreeMap, TreeSet, HashMap, ConcurrentHashMap.
+
+2. Difference between ConcurrentHashMap and Collections.synchronizedMap(HashMap).
+
+3. Types of locks.
+
+4. Factory Design Pattern, Abstract Factory Design Pattern , Singleton design pattern.
+
+5. Finding loop in linked list.
+
+6. Design a garbage collection system.
+
+7. Suppose you have root of 2 trees A and B 
+	Check if B is sub tree of A
+	

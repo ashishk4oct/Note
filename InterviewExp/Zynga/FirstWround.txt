@@ -1,0 +1,30 @@
+
+1. Find duplicates in a array with time complexity O(n) and extra space used in O(1).
+
+
+
+2. 1 million records in a array [1-10000]
+   how will you short it without using extra space.
+
+   Radix sort, bucket sort, counting sort
+
+3. Check if a tree is has mirror image if split into 2 from middle and who to do it if there are one million records in the tree.
+
+4. 
+
+	fork();
+	int c = fork();
+	
+	(c&&fork())
+	
+	print("Hello")
+	
+	return 0;
+	
+	fork() return 0 to child and id of child to parent
+	
+	what will be the result?
+	
+5. Semaphore and Mutex.
+
+   Real life example of semaphore.
