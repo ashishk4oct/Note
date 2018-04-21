@@ -44,4 +44,4 @@ http://www.java67.com/2012/08/difference-between-hashmap-and-concurrentHashMap-j
  
  Actually when you are adding a line in HashSet like  hashset.add(3)   what java does internally is that it will put that element E here 3 as a key in the HashMap(created during HashSet object creation) and some dummy value that is Object's object is passed as a value to the key .
  
- When you pass duplicate elements in the  add() method of the Set object , It will return false and do not add to the HashSet
+ When you pass duplicate elements in the add() method of the Set object , It will return false and do not add to the HashSet

@@ -1,0 +1,1 @@
+volatile variable instruct JVM threads to read the value of the volatile variable from main memory and don’t cache it locally

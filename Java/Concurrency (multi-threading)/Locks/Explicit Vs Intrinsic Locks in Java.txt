@@ -1,0 +1,18 @@
+In java we have two types of locks available
+
+1. Intrinsic Lock
+
+2. Explicit Lock
+
+Whenever we synchronize any object we get an Intrinsic Lock on that object.
+
+Question is when to use explicit and when to use intrinsic. 
+There are many reasons to use explicit reasons. One of them is tryLock() method which helps to prevent the deadlock scenario.
+
+    Separation of locks by read or write.
+    Some locks allow concurrent access to a shared resource (ReadWriteLock).
+    Different ways of acquiring a lock:
+        Blocking: lock()
+        Non-blocking: tryLock()
+        Interruptible: lockInterruptibly()
+		

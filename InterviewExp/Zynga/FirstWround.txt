@@ -1,7 +1,4 @@
-
 1. Find duplicates in a array with time complexity O(n) and extra space used in O(1).
-
-
 
 2. 1 million records in a array [1-10000]
    how will you short it without using extra space.

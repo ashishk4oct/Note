@@ -1,0 +1,2 @@
+Classes take higher precedence than interfaces – Any method inherited from a class or a superclass is invoked over any default method inherited from an interface.
+

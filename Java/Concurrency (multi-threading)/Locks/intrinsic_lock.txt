@@ -1,0 +1,11 @@
+In Java, an intrinsic lock is implied by each use of the synchronized keyword
+
+Each use of the synchronized keyword is associated with one of the two types of intrinsic lock:
+
+    an "instance lock", attached to a single object
+    a "static lock", attached to a class
+
+Acquiring the instance lock only blocks other threads from invoking a synchronized instance method; it does not block other threads from invoking an un-synchronized method, nor does it block them from invoking a static synchronized method.
+
+Similarly, acquiring the static lock only blocks other threads from invoking a static synchronized method; it does not block other threads from invoking an un-synchronized method, nor does it block them from invoking a synchronized instance method.
+
