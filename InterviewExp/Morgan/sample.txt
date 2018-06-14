@@ -1,0 +1,22 @@
+
+design pattern ek bar padh lena 
+builder design pattern
+
+String Class implementation, LRU program, Design Pattern(Builder Pattern) like Mcdonalds program, for order 
+
+managerial :
+
+	parking slot design 
+
+3rd round:
+
+Blocking queue implementaion
+lrc cash design
+
+self join in slq
+
+implement iterator  
+
+when ever asked for next ,
+it should return smallest leaf of parent  .
+
