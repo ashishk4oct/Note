@@ -1,0 +1,13 @@
+1. Thread pool
+
+2. Decorator Pattern
+
+3. Builder Pattern
+
+4. Print boundary nodes of a tree.
+
+5. Print median from a list of continuous stream
+
+6. Serialize and de-serialize a singleton object. Do we get the same object.
+
+7. Use thread to search in list of 1000000 records.

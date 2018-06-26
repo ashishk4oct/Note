@@ -13,7 +13,6 @@ managerial :
 Blocking queue implementaion
 lrc cash design
 
-self join in slq
 
 implement iterator  
 
